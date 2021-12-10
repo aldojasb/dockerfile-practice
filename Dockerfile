@@ -8,3 +8,4 @@ USER root
 RUN apt-get update
 
 RUN pip install pandas
+RUN pip install numpy
